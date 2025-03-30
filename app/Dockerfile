@@ -18,7 +18,7 @@ RUN chown -R appuser:appgroup /app
 USER appuser
 
 # Listening application on port
-EXPOSE 5000
+EXPOSE 3000
 
 # Start the app
 CMD ["python3", "app.py"]

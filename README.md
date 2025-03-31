@@ -1,5 +1,3 @@
-# Particle41
-
 Particle41 DevOps Challenge Submission
 
 Access the Application
@@ -127,4 +125,4 @@ Common Issues
 		○ Check cluster status: kubectl cluster-info
 
 This document serves as a complete DevOps guide for deploying the SimpleTimeService Python application using Docker, Kubernetes, and Terraform.
-![image](https://github.com/user-attachments/assets/f0c8d35c-349f-412e-9842-9e04dea0e5df)
+![image](https://github.com/user-attachments/assets/9780c939-732e-4299-b17e-931c7522a1b8)
